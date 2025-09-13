@@ -115,3 +115,11 @@ EXPLICACIONES_TECNICAS = [
     "Los patrones de tráfico cambian dinámicamente según la hora simulada",
     "Cada tipo de vehículo tiene parámetros únicos de velocidad y comportamiento"
 ]
+
+# Agregar al final
+SONIDOS = {
+    'MOTOR_AUTO': 'sounds/car_engine.wav',
+    'BOCINA': 'sounds/horn.wav', 
+    'FRENOS': 'sounds/brakes.wav',
+    'AMBIENTE_CIUDAD': 'sounds/city_ambient.wav'
+}
